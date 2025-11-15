@@ -54,7 +54,7 @@ for more information.
 === Recommended partitions and options
 
 [source,shell]
-----
+----  
 /boot (rw)
 /home (rw,nosuid,nodev)
 /var/log (rw,nosuid,nodev,noexec)
